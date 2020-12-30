@@ -1,5 +1,6 @@
 # RMI
-Hostel Room Reservation System
+# Hostel Room Reservation System
+
 A distributed system is a collection of independent components located on
 different machines that share messages with each other in order to achieve
 common goals. With design patterns like microservices being adapted by
