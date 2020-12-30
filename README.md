@@ -22,7 +22,7 @@ their current waitlist and reservation list.
 ### 3: Create mysql database 
 ### 4: Start rmiregistry
 ### 5: Run Server.java for Student Login
-### 6: Run Client.java for 
+### 6: Run Client.java
 ### 7: Run InstServer.java for Institute Login
-### 8: Run InstClient.java for 
+### 8: Run InstClient.java
 
