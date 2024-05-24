@@ -24,3 +24,4 @@ their current waitlist and reservation list.
 ### 7: Run InstServer.java for Institute Login
 ### 8: Run InstClient.java
 
+https://github.com/Jayram999/Distributed_Hostel_Room_Reservation_System_using_RMI/blob/main/Project%20Report.pdf
